@@ -1,0 +1,1 @@
+# V tomto subore budu funkcie
